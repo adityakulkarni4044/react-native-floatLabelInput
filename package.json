@@ -1,0 +1,19 @@
+{
+  "name": "react-native-floatlabelinput",
+  "version": "1.0.0",
+  "description": "This is react-native custome textinput which has a floating label",
+  "main": "FloatLabelInput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityakulkarni4044/react-native-floatLabelInput.git"
+  },
+  "author": "Aditya Kulkarni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityakulkarni4044/react-native-floatLabelInput/issues"
+  },
+  "homepage": "https://github.com/adityakulkarni4044/react-native-floatLabelInput#readme"
+}
